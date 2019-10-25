@@ -12,12 +12,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <!-- ProtonOS Version -->
-    <string name="proton_version">ProtonOS Version</string>
-    <string name="proton_version_default">Unknown</string>
-    <!-- About phone screen, status item URI    [CHAR LIMIT=40] -->
-    <string name="proton_uri" translatable="false">https://github.com/Project-Proton/</string>
-    <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <!-- Whether to show or hide sensitive info (like IMEI and Phone Number) on About phone -->
+    <bool name="configShowDeviceSensitiveInfo">false</bool>
 </resources>
