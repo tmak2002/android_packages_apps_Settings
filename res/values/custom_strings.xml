@@ -20,4 +20,7 @@
     <string name="proton_uri" translatable="false">https://github.com/Project-Proton/</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
+    
+    <!-- Screenshot shutter sound -->
+    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
 </resources>
